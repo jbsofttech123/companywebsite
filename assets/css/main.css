@@ -10743,7 +10743,7 @@ input:focus::placeholder, textarea:focus::placeholder {
         .stand {
             margin: 0 auto;
             width: 120px;
-            height: 80px;
+            height: 35px;
             background: linear-gradient(to bottom, #34495e, #2c3e50);
             border: 2px solid #34495e;
             border-top: none;
@@ -10823,19 +10823,19 @@ input:focus::placeholder, textarea:focus::placeholder {
             border: 1px solid #7f8c8d;
         }
         
-        .website-link {
-            display: block;
-            text-align: center;
-            background: #3498db;
-            color: white;
-            padding: 12px;
-            text-decoration: none;
-            font-weight: bold;
-            border-radius: 5px;
-            margin: 20px 0;
-            transition: all 0.3s;
-            box-shadow: 0 0 10px rgba(52, 152, 219, 0.5);
-        }
+.website-link {
+    display: block;
+    text-align: center;
+    background: #074463;
+    color: white;
+    padding: 12px 54px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 0px 0;
+    transition: all 0.3s;
+    box-shadow: 0 0 10px rgba(52, 152, 219, 0.5);
+}
         
         .website-link:hover {
             background: #2980b9;
