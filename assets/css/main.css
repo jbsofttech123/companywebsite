@@ -10734,6 +10734,8 @@ input:focus::placeholder, textarea:focus::placeholder {
             background-repeat: no-repeat;
             color: #ecf0f1;
             min-height: 400px;
+                align-items: flex-end;
+    justify-content: center;
         }
         
         /* Computer Stand */
