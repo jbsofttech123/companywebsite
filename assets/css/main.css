@@ -10749,7 +10749,9 @@ input:focus::placeholder, textarea:focus::placeholder {
             border-top: none;
             border-radius: 0 0 5px 5px;
         }
-        
+        .dis-no{
+          display: none;
+        }
         .base {
             margin: 0 auto;
             width: 180px;
