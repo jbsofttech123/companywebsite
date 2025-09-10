@@ -10729,7 +10729,7 @@ input:focus::placeholder, textarea:focus::placeholder {
         .screen-content {
             padding: 20px;
             background-image: url(../img/about/revour-img.png);
-            background-position: center;
+            background-position: top;
             background-size: cover;
             background-repeat: no-repeat;
             color: #ecf0f1;
